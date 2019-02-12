@@ -1,2 +1,2 @@
 # RoBrahma
-Robo da copa Robocode
+Robô da copa Robocode
